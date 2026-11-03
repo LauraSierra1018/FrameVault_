@@ -24,7 +24,11 @@ La organización por proyecto, jornada, cámara y tarjeta es opcional. La jornad
 
 ## Pruebas de usuario
 
-Despliega **Probar con una persona** al final de la página. Usa copias de 5–10 archivos reales y conserva los originales. Inicia una sesión nueva, observa la tarea y exporta el resultado JSON antes de recargar. El registro incluye tiempo, activación, ayudas y confianza; no incluye rutas ni nombres de archivos. No pongas datos personales en las notas.
+Despliega **Tu experiencia con FrameVault** al final de la página. Usa copias de 5–10 archivos reales y conserva los originales. Registra tu confianza inicial y pulsa **Comenzar recorrido** para abrir una sesión nueva. Al terminar, incluso si no lograste completar el respaldo, pulsa **Ver mi resumen** y luego **Descargar resultado**.
+
+El resumen muestra finalización, ayudas, confianza e interpretación individual. El JSON se guarda en las descargas del navegador o en la ubicación elegida; no se guarda automáticamente en FrameVault ni se envía al equipo. Descárgalo antes de cerrar o recargar. Incluye tiempo, cantidad y tamaño de archivos, comprensión y comentarios; no incluye rutas ni nombres de archivos. No pongas datos personales en las notas.
+
+Para evaluar el prototipo, compara varios recorridos: finalización (incluidos los abandonos), ayudas solicitadas, comprensión del estado verde y confianza antes/después. Compara tiempos con tamaños de archivo y equipos similares. Agrupa dificultades repetidas, mejora el paso correspondiente y vuelve a probar. Conserva los JSON y registra por separado los abandonos sin descarga: todavía no hay agregación automática de resultados.
 
 ## Desarrollo y comprobaciones
 
